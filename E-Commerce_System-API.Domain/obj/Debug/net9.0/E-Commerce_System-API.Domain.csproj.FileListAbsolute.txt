@@ -1,0 +1,12 @@
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Domain\bin\Debug\net9.0\E-Commerce_System-API.Domain.deps.json
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Domain\bin\Debug\net9.0\E-Commerce_System-API.Domain.dll
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Domain\bin\Debug\net9.0\E-Commerce_System-API.Domain.pdb
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Domain\obj\Debug\net9.0\E-Commerce_System-API.Domain.csproj.AssemblyReference.cache
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Domain\obj\Debug\net9.0\E-Commerce_System-API.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Domain\obj\Debug\net9.0\E-Commerce_System-API.Domain.AssemblyInfoInputs.cache
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Domain\obj\Debug\net9.0\E-Commerce_System-API.Domain.AssemblyInfo.cs
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Domain\obj\Debug\net9.0\E-Commerce_System-API.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Domain\obj\Debug\net9.0\E-Commerce_System-API.Domain.dll
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Domain\obj\Debug\net9.0\refint\E-Commerce_System-API.Domain.dll
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Domain\obj\Debug\net9.0\E-Commerce_System-API.Domain.pdb
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Domain\obj\Debug\net9.0\ref\E-Commerce_System-API.Domain.dll

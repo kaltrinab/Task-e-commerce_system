@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "rTGeeT6D66w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Labinot Bulliqi\\Desktop\\Task-OMS\\E-Commerce_System-API\\E-Commerce_System-API.Application\\E-Commerce_System-API.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Labinot Bulliqi\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
+    "C:\\Users\\Labinot Bulliqi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Labinot Bulliqi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Labinot Bulliqi\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.9.0\\microsoft.identitymodel.abstractions.8.9.0.nupkg.sha512",
+    "C:\\Users\\Labinot Bulliqi\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.9.0\\microsoft.identitymodel.jsonwebtokens.8.9.0.nupkg.sha512",
+    "C:\\Users\\Labinot Bulliqi\\.nuget\\packages\\microsoft.identitymodel.logging\\8.9.0\\microsoft.identitymodel.logging.8.9.0.nupkg.sha512",
+    "C:\\Users\\Labinot Bulliqi\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.9.0\\microsoft.identitymodel.tokens.8.9.0.nupkg.sha512",
+    "C:\\Users\\Labinot Bulliqi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\8.1.1\\swashbuckle.aspnetcore.swaggerui.8.1.1.nupkg.sha512",
+    "C:\\Users\\Labinot Bulliqi\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.9.0\\system.identitymodel.tokens.jwt.8.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

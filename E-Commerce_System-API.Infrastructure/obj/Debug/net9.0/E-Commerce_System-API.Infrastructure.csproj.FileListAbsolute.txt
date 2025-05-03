@@ -1,0 +1,17 @@
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Infrastructure\bin\Debug\net9.0\E-Commerce_System-API.Infrastructure.deps.json
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Infrastructure\bin\Debug\net9.0\E-Commerce_System-API.Infrastructure.dll
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Infrastructure\bin\Debug\net9.0\E-Commerce_System-API.Infrastructure.pdb
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Infrastructure\obj\Debug\net9.0\E-Commerce_System-API.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Infrastructure\obj\Debug\net9.0\E-Commerce_System-API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Infrastructure\obj\Debug\net9.0\E-Commerce_System-API.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Infrastructure\obj\Debug\net9.0\E-Commerce_System-API.Infrastructure.AssemblyInfo.cs
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Infrastructure\obj\Debug\net9.0\E-Commerce_System-API.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Infrastructure\obj\Debug\net9.0\E-Commerce_System-API.Infrastructure.dll
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Infrastructure\obj\Debug\net9.0\refint\E-Commerce_System-API.Infrastructure.dll
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Infrastructure\obj\Debug\net9.0\E-Commerce_System-API.Infrastructure.pdb
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Infrastructure\obj\Debug\net9.0\ref\E-Commerce_System-API.Infrastructure.dll
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Infrastructure\bin\Debug\net9.0\E-Commerce_System-API.Domain.dll
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Infrastructure\bin\Debug\net9.0\E-Commerce_System-API.Domain.pdb
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Infrastructure\obj\Debug\net9.0\E-Commer.62E91BDE.Up2Date
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Infrastructure\bin\Debug\net9.0\E-Commerce_System-API.Application.dll
+C:\Users\Labinot Bulliqi\Desktop\Task-OMS\E-Commerce_System-API\E-Commerce_System-API.Infrastructure\bin\Debug\net9.0\E-Commerce_System-API.Application.pdb
